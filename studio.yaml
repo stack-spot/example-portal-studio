@@ -6,13 +6,17 @@ displayName: Example of Studio
 # caso a picture esteja no repo fornecer o path
 # todo: recomendar tamanho de picture
 picture: "pictures/foto_do_studio.jpeg"
+
+# Empresa ou grupo do studio
+company: zup
+
 # texto curto explicando o studio
 about: Just a example of studio.
 # tecnologies que o studio utiliza
 # todo: colocar lista de tecnologias suportadas
 technologies: [ "Kotlin", "SpringBoot", "Golang" ]
 # colocar um texto longo explicando o studio
-description: |
+whoWeAre: |
  Lorem Ipsum is simply dummy text of the printing and
  typesetting industry. Lorem Ipsum has been the industry's standard
  dummy text ever since the 1500s, when an unknown printer took a galley
