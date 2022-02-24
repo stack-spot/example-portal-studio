@@ -55,8 +55,8 @@ stacks:
     #   * "git@github.com:viniciussousazup/example-stack-spot-studio.git"
     #   * "https://github.com/viniciussousazup/example-stack-spot-studio.git"
     # para evitar erros recomendamos colocar a url entre aspas ""
-  - location: "https://github.com/viniciussousazup/example-stack-spot-stack"
-  - location: "https://github.com/viniciussousazup/example-stack-spot-stack2"
-  - location: "https://github.com/viniciussousazup/example-stack-spot-stack3"
-  - location: "https://github.com/viniciussousazup/example-stack-spot-stack4"
+  - location: "https://github.com/stack-spot/example-portal-stack"
+  - location: "https://github.com/stack-spot/example-portal-stack2"
+  - location: "https://github.com/stack-spot/example-portal-stack3"
+  - location: "https://github.com/stack-spot/example-portal-stack4"
     
