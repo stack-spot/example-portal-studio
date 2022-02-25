@@ -14,7 +14,7 @@ company: zup
 about: Just a example of studio.
 # tecnologies que o studio utiliza
 # A lista completa das tecnologias disponiveis que podem ser cadastradas estao disponiveis na Documentacao para consulta
-technologies: [ "Kotlin", "SpringBoot", "Golang" ]
+technologies: [ "Docker", "SpringBoot", "OpenAPI" ]
 # colocar um texto longo explicando o studio
 whoWeAre: |
  Lorem Ipsum is simply dummy text of the printing and
