@@ -13,7 +13,7 @@ company: zup
 # texto curto explicando o studio
 about: Just a example of studio.
 # tecnologies que o studio utiliza
-# todo: colocar lista de tecnologias suportadas
+# A lista completa das tecnologias disponiveis que podem ser cadastradas estao disponiveis na Documentacao para consulta
 technologies: [ "Kotlin", "SpringBoot", "Golang" ]
 # colocar um texto longo explicando o studio
 whoWeAre: |
