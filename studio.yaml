@@ -4,7 +4,6 @@ name: stack-spot-example
 displayName: Example of Studio
 # caso a picture esteja fora do repo colocar uma url externa
 # caso a picture esteja no repo fornecer o path
-# todo: recomendar tamanho de picture
 picture: "pictures/foto_do_studio.jpeg"
 
 # Empresa ou grupo do studio
@@ -34,14 +33,13 @@ creators:
     # url do profile
     profileURL: "https://github.com/viniciussousazup"
     # provider do profileUrl
-    # provider suportados: [github, linkedin]
+    # provider suportados: [github]
     provider: github
     # cargo que será exibido no portal
     jobRole: software Engineer
     # picture que será exibina no portal
     # caso a picture esteja fora do repo colocar uma url externa
     # caso a picture esteja no repo fornecer o path
-    # todo: recomendar tamanho de picture
     picture: "https://avatars.githubusercontent.com/u/42281176?v=4"
   - displayName: Andressa Abreu
     jobRole: software Engineer
